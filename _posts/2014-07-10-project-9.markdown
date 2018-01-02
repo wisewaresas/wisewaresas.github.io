@@ -1,0 +1,11 @@
+---
+title: DATACAUCA
+subtitle: Sistema de Información
+layout: default
+modal-id: 9
+img: 91.png
+alt: Sistema de Información DataCauca
+thumbnail: 9.png
+description: Este sitio web fue construido en Drupal para la Gobernación del Cauca, una entidad pública del estado Colombiano. DataCauca es un sistema de información de base de costos de infraestructura y presupuestos de obra que sirve de soporte y referencia a la actividad de la ingeniería civil en el departamento del CAUCA.
+
+---

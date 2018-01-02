@@ -1,0 +1,25 @@
+url: https://www.wisewaresas.com
+baseurl: ""
+
+# Site settings
+title: WiseWare SAS | Desarrollo web y móvil - Drupal
+email: contacto@wisewaresas.com
+description: "Somos una compañía especializada en reflexión, diseño y desarrollo de software. También brindamos servicios de consultoría. Nuestro norte es la simplicidad."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/wisewaresas
+  - title: facebook
+    url: https://www.facebook.com/wisewaresas
+  - title: google-plus
+    url: https://plus.google.com/+Wisewaresass
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,11 @@
+---
+title: AUDITOR
+subtitle: Sistema de Información
+layout: default
+modal-id: 4
+img: 41.png
+alt: Sistema de Información Auditor
+thumbnail: 4.png
+description: Control en tiempo real de proyectos de auditoria en el campo de la ingeniería civil en carreteras. Se hizo el control de 140 proyectos al mismo tiempo y se presentaron informes del estado de los proyectos semanalmente. Lo anterior fue posible gracias al Sistema de Información Auditor Plus, desarrollado por Wiseware S.A.S. Este sistema cuenta con una aplicación móvil para usarse en campo.
+
+---

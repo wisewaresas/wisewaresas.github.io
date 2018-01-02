@@ -1,0 +1,11 @@
+---
+title: GURUP!
+subtitle: Diseño y implementación de app
+layout: default
+modal-id: 5
+img: 51.png
+alt: App Gurup!
+thumbnail: 5.png
+description: Esta aplicación móvil, desarrollada en Android, se integra al Sistema de Información del la inmobiliaria Gurú de Inmubles S.A.S. Permite la gestión de puntos de interés, propiedades y correo electrónico. También tiene la posibilidad de reporte de actividades por parte de los empleados para el control de los mismos.
+
+---

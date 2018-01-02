@@ -1,0 +1,11 @@
+---
+title: Ecoplastic
+subtitle: Diseño y construcción de sitio web
+layout: default
+modal-id: 1
+img: 11.png
+thumbnail: 1.png
+alt: Página web de Ecoplastic S.A.S.
+description: Se hizo diseño y desarrollo del sitio web. Este sitio web fue desarrollado con Drupal. Se diseñó un sistema de información para el manejo de los procesos de la compañía en cuestión.
+
+---

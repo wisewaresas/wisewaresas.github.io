@@ -1,0 +1,11 @@
+---
+title: GURÚ DE INMUEBLES
+subtitle: Diseño de marca, Sitio Web e intranet.
+layout: default
+modal-id: 2
+img: 21.png
+alt: Página Guru de Inmuebles
+thumbnail: 2.png
+description: Se hizo diseño y desarrollo del sitio web. Este sitio web fue desarrollado con Drupal. Se diseñó un sistema de información para el manejo de los procesos de la compañía en cuestión. Se desarrolló también un sistema para manejo de correo electrónico. Se hizo diseño de marca y suministro de publicidad.
+
+---

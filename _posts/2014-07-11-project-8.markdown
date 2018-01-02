@@ -1,0 +1,11 @@
+---
+title: AGROINNOVA
+subtitle: Construcción de sitio web
+layout: default
+modal-id: 8
+img: 81.png
+alt: Sitio Web de AgroInnova
+thumbnail: 8.png
+description: Este sitio web fue construido en Drupal para Agroinnova, una empresa de carácter privado sin ánimo de lucro dedicada a la incubación y fortalecimiento de empresas agroindustriales. En esta página se muestran las empresas que están adscritas y sus productos destacados.
+
+---

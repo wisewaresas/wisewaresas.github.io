@@ -1,0 +1,11 @@
+---
+title: DESCIFRARTE
+subtitle: Construcción de sitio web
+layout: default
+modal-id: 6
+img: 61.png
+alt: Sitio Web de Descifrarte
+thumbnail: 6.png
+description: Este sitio web construido en Drupal, muestra una variedad de productos artesanales de la tienda Descrifrarte. Se utilizó un diseño OnePage, que en muchos casos permite que el sitio web tenga solo los componentes esenciales y que la navegación sea intuitiva.
+
+---
